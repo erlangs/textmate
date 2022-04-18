@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Applications/SyntaxMate/resources/SyntaxMate.tmBundle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Applications/TextMate/icons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlugIns/dialog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PlugIns/dialog-1.x" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bin/CxxTest" vcs="Git" />
+  </component>
+</project>
